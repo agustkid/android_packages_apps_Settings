@@ -11428,4 +11428,5 @@
 
     <!-- crDroid maintainer -->
     <string name="maintainer">Maintainer</string>
+    <string name="maintainer_name">crDroid Team</string>
 </resources>
